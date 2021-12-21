@@ -1,10 +1,11 @@
 # SampleTestAutomation
 This repository contains 2 projects that are structured similar to our own internal test solution.
 The projects also utilize the same packages we utilize: Selenium, SpecFlow, Boa.Constrictor.
+The included sample feature file contains several scenarios that test behaviors on a [simple calculator site](https://www.theonlinecalculator.com/).
 
 
 ## Instructions
-1. Install the latest stable ChromeDriver in `C:\WebDriver\bin` or update the path in `BoaHooks` to target your installation directory.
+1. Install the latest stable ChromeDriver in `C:\WebDriver\bin` or update the path in `Hooks` to target your installation directory.
 2. Install the VS SpecFlow plugin (links below).
 3. Navigate to `Calculator.feature` and review the existing Gherkin steps and their step definitions (`CalculatorSteps.cs`).
 4. Follow the instructions in the provided Test Automation Technical Screening.
