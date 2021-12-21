@@ -7,9 +7,7 @@ The projects also utilize the same packages we utilize: Selenium, SpecFlow, Boa.
 1. Install the latest stable ChromeDriver in `C:\WebDriver\bin` or update the path in `BoaHooks` to target your installation directory.
 2. Install the VS SpecFlow plugin (links below).
 3. Navigate to `Calculator.feature` and review the existing Gherkin steps and their step definitions (`CalculatorSteps.cs`).
-4. Follow the comments in the Feature file to complete the 2 unimplemented Scenarios.
-5. Consider the extra Scenario: either implement or provide thoughts on its implementation.
-6. Follow the last prompt in the comments to provide ideas for further Scenarios.
+4. Follow the instructions in the provided Test Automation Technical Screening.
 
 
 ## Documentation
