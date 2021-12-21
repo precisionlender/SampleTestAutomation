@@ -67,7 +67,7 @@ If you run into issues getting the solution to run feel free to email us:
 
 
 ## Tips
-You may notice that the `BoaHooks` file contains an `AfterScenario` hook to quit the WebDriver.
+You may notice that the `Hooks` file contains an `AfterScenario` hook to quit the WebDriver.
 WebDriver instances are somewhat notorious for sticking around and causing issues.
 If you get stuck while debugging/running new tests locally, look for zombie instances leftover from past test runs (kill chromedriver.exe from Task Manager).
 
