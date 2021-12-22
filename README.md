@@ -58,11 +58,11 @@ A reference for writing web locators.
 If you run into issues getting the solution to run feel free to email us:
 
 
-[Jeff Wolf, Manager](jeff.wolf@Q2.com)
+[Jeff Wolf, Manager](mailto:jeff.wolf@Q2.com)
 
-[Steve Hernandez, Senior SET](steve.hernandez@Q2.com)
+[Steve Hernandez, Senior SET](mailto:steve.hernandez@Q2.com)
 
-[Sarah Watkins, SET](sarah.watkins@Q2.com)
+[Sarah Watkins, SET](mailto:sarah.watkins@Q2.com)
 
 
 ## Tips
